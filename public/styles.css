@@ -1,0 +1,46 @@
+img{
+    object-fit: contain;
+
+    height: 500px;
+    width: 500px;
+}
+.avatar{
+    height: 70px;
+    width: 70px;
+    
+}
+
+.showman{
+    height: 70px;
+    width: 70px;
+}
+
+.barber-shop{
+    height: 70px;
+    width: 70px;
+}
+
+.prison{
+    height: 70px;
+    width: 70px;
+}
+
+.bad-guys{
+    height: 70px;
+    width: 70px;
+}
+
+a{
+    font-weight: bold;
+    font-size: large;
+    text-decoration: none;
+    display: block;
+}
+
+.about-me{
+    display: inline;
+}
+
+.contact-me{
+    display: inline;
+}
